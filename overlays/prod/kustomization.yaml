@@ -1,4 +1,0 @@
-resources:
-  - ../../base/nginx-deployment.yaml
-  - ../../base/nginx-service.yaml
-namespace: prod
