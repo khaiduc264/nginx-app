@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: nginx-service
-  namespace: default
+  name: nginx-service-staging
+  namespace: staging
 spec:
   selector:
     app: nginx
